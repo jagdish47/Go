@@ -34,9 +34,9 @@ func main(){
 
 	// 4
 	// Range 
-	// for i:= range 10 {
-	// 	fmt.Println(i);
-	// }
+	for i:= range 10 {
+		fmt.Println(i);
+	}
 
 }
 
